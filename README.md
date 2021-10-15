@@ -1,4 +1,4 @@
-# OurDelivery WebSite
+# OurDelivery Presentation WebSite
 
 <p align="center">
     <img src="https://i.imgur.com/jzqumG7.png" height="150" alt="OurDelivery-Logo">
@@ -22,8 +22,10 @@
 
 ---
 
-#Step 1: Set Up A React Project
-Get started by setting up a React app using the Create React App (CRA) CLI tool. With this, you can generate a project to get up and running with React.
+# Step 1: Set Up A React Project
+
+Get started by setting up a React app using the Create React App (CRA) CLI tool. With this, you can generate a project
+to get up and running with React.
 
 Using npx, you can setup a React app with CRA with the following command in your terminal:
 
@@ -31,7 +33,7 @@ Using npx, you can setup a React app with CRA with the following command in your
   npx create-react-app my-app && cd my-app
 ```
 
-To start the project
+To start the project:
 
 ```shell
   yarn start
