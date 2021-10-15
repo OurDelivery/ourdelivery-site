@@ -17,8 +17,6 @@ import {Button} from '../ButtonElements'
 const Hero = () => {
     const [hover, setHover] = useState(false);
 
-    const url = 'https://youtu.be/hMHspj6EIkI';
-
     const onHover = () => {
         setHover(!hover)
     }
