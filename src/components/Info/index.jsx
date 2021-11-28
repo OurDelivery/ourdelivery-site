@@ -42,7 +42,7 @@ const Info = ({
                                 <Heading lightText={lightText}>{headline}</Heading>
                                 <Subtitle darkText={darkText}>{description}</Subtitle>
                                 <BtnWrap>
-                                    <Button to='home'
+                                    <Button to=''
                                             smooth={true}
                                             duration={500}
                                             spy={true}
